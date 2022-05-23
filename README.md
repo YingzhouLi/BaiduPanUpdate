@@ -1,5 +1,4 @@
-BaiduPanFilesUpdates
-
+BaiduPanUpdates
 =====
 
 ## Introduction
@@ -47,6 +46,6 @@ python baidupanupdate.py
 
 ## Acknowledgment
 
-This repository is inspired by @hxz393/BaiduPanFilesTransfers.
+This repository is inspired by [@hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers).
 
 
